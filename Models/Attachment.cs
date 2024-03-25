@@ -12,6 +12,7 @@ using Newtonsoft.Json;
 
 namespace Facilitate.Libraries.Models
 {
+    // Attachments can be binary (vid/photo) or text-based.
     public class Attachment
     {
         public Attachment()

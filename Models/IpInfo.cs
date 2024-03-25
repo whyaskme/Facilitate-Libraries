@@ -8,6 +8,7 @@ using Newtonsoft.Json;
 
 namespace Facilitate.Libraries.Models
 {
+    // Used for geolocation functions
     public class IpInfo
     {
         [JsonProperty("ip")]

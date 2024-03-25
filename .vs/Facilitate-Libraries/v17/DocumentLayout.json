@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Development Repos\\Facilitate-Libraries\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CD1F368-4CF9-4C5B-8866-E4F3C24EB3FC}|Libraries.csproj|d:\\development repos\\facilitate-libraries\\models\\ipinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD1F368-4CF9-4C5B-8866-E4F3C24EB3FC}|Libraries.csproj|solutionrelative:models\\ipinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CD1F368-4CF9-4C5B-8866-E4F3C24EB3FC}|Libraries.csproj|d:\\development repos\\facilitate-libraries\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CD1F368-4CF9-4C5B-8866-E4F3C24EB3FC}|Libraries.csproj|solutionrelative:models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -35,12 +39,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IpInfo.cs",
+              "DocumentMoniker": "D:\\Development Repos\\Facilitate-Libraries\\Models\\IpInfo.cs",
+              "RelativeDocumentMoniker": "Models\\IpInfo.cs",
+              "ToolTip": "D:\\Development Repos\\Facilitate-Libraries\\Models\\IpInfo.cs",
+              "RelativeToolTip": "Models\\IpInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T16:16:51.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Attachment.cs",
               "DocumentMoniker": "D:\\Development Repos\\Facilitate-Libraries\\Models\\Attachment.cs",
               "RelativeDocumentMoniker": "Models\\Attachment.cs",
               "ToolTip": "D:\\Development Repos\\Facilitate-Libraries\\Models\\Attachment.cs",
               "RelativeToolTip": "Models\\Attachment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T16:14:49.157Z",
               "EditorCaption": ""
